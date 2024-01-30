@@ -1,1 +1,1 @@
-hello world this repo pcontains some more or less usefull scripts mostly just compiled from inteernet 
+hello world this repo p contains some more or less useful scripts mostly just compiled 
